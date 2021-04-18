@@ -1,7 +1,7 @@
 #include <iostream>
 #include<bits/stdc++.h>
 
-/*DIPU_BISWAS_443A*/
+/*DIPU BISWAS 443A*/
 
 using namespace std;
 
@@ -27,6 +27,4 @@ int main()
     cout << k ;
     return 0;
 }
-
-
 
