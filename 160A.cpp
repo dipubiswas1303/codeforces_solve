@@ -2,6 +2,13 @@
 
 using namespace std;
 
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 160A
+   LINK : https://codeforces.com/problemset/problem/160/A
+   */
+
 int main()
 {
     int x, y = 0, z = 0, i, j, c = 0, t;
