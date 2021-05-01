@@ -1,9 +1,14 @@
 #include <iostream>
 #include<bits/stdc++.h>
 
-/*DIPU BISWAS 1328A*/
-
 using namespace std;
+
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 1328A
+   LINK : https://codeforces.com/problemset/problem/1328/A
+   */
 
 int main()
 {
@@ -23,6 +28,3 @@ int main()
     }
   return 0;
 }
-
-
-
