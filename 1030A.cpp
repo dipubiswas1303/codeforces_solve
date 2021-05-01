@@ -5,7 +5,7 @@ using namespace std;
    /*
    NAME : DIPU BISWAS
    JUST CSE 2019 - 2020
-   PROBLEM CODE : 116A
+   PROBLEM CODE : 1030A
    LINK : https://codeforces.com/problemset/problem/1030/A
    */
 
