@@ -2,6 +2,13 @@
 
 using namespace std;
 
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 158B
+   LINK : https://codeforces.com/problemset/problem/158/B
+   */
+
 int main()
 {
     int n, i = 0, one = 0, two = 0, three = 0, four = 0, ans = 0;
