@@ -3,6 +3,13 @@
 
 using namespace std;
 
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 339A
+   LINK : https://codeforces.com/problemset/problem/339/A
+   */
+
 int main()
 {
     char arr[1000], ar[1000];
