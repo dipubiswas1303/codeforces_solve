@@ -2,7 +2,12 @@
 
 using namespace std;
 
-/*DIPU BISWAS 510A*/
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 510A
+   LINK : https://codeforces.com/problemset/problem/510/A
+   */
 
 int main()
 {
