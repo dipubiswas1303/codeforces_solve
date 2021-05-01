@@ -2,6 +2,13 @@
 
 using namespace std;
 
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 467A
+   LINK : https://codeforces.com/problemset/problem/467/A
+   */
+
 int main()
 {
     int t, c = 0;
