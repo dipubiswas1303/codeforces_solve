@@ -3,7 +3,7 @@
    /*
    NAME : DIPU BISWAS
    JUST CSE 2019 - 2020
-   PROBLEM CODE : 1030A
+   PROBLEM CODE : 1A
    LINK : https://codeforces.com/problemset/problem/1/A
    */
 
