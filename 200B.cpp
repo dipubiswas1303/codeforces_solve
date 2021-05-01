@@ -1,8 +1,13 @@
 #include <iostream>
 
-/*DIPU BISWAS 200B*/
-
 using namespace std;
+
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 200B
+   LINK : https://codeforces.com/problemset/problem/200/B
+   */
 
 int main()
 {
