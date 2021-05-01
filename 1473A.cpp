@@ -1,7 +1,14 @@
-#include <iostream>
 
+#include<bits/stdc++.h>
 
 using namespace std;
+
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 1473A
+   LINK : https://codeforces.com/problemset/problem/1473/A
+   */
 
 int main()
 {
