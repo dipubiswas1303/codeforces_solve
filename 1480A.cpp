@@ -1,9 +1,14 @@
 #include <iostream>
 #include <string.h>
 
-/*DIPU BISWAS 1480A*/
-
 using namespace std;
+
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 1480A
+   LINK : https://codeforces.com/problemset/problem/1480/A
+   */
 
 int main()
 {
