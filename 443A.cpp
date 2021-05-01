@@ -1,9 +1,14 @@
 #include <iostream>
 #include<bits/stdc++.h>
 
-/*DIPU BISWAS 443A*/
-
 using namespace std;
+
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 443A
+   LINK : https://codeforces.com/problemset/problem/443/A
+   */
 
 int main()
 {
