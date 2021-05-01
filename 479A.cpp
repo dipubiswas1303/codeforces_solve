@@ -1,8 +1,13 @@
 #include <iostream>
 
-/*DIPU BISWAS 479A*/
-
 using namespace std;
+
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 479A
+   LINK : https://codeforces.com/problemset/problem/479/A
+   */
 
 int main()
 {
