@@ -1,7 +1,13 @@
-
 #include <iostream>
 
 using namespace std;
+
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 116A
+   LINK : https://codeforces.com/problemset/problem/116/A
+   */
 
 int main()
 {
