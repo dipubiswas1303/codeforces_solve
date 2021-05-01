@@ -1,6 +1,11 @@
 #include <stdio.h>
 
-/*DIPU BISWAS 405A*/
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 405A
+   LINK : https://codeforces.com/problemset/problem/405/A
+   */
 
 int main()
 {
