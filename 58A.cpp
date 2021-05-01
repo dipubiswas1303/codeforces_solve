@@ -3,6 +3,13 @@
 
 using namespace std;
 
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 58A
+   LINK : https://codeforces.com/problemset/problem/58/A
+   */
+
 int main()
 {
     char a[101], b[] = "hello";

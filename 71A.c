@@ -1,5 +1,13 @@
 #include <stdio.h>
 #include<string.h>
+
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 71A
+   LINK : https://codeforces.com/problemset/problem/71/A
+   */
+
 int main()
 {
     int n;

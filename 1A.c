@@ -1,5 +1,12 @@
 #include<stdio.h>
 
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 1A
+   LINK : https://codeforces.com/problemset/problem/1/A
+   */
+
 int main()
 {
     int a, b, c, d;

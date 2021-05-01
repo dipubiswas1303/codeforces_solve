@@ -1,9 +1,14 @@
 #include <iostream>
 #include<bits/stdc++.h>
 
-/*DIPU BISWAS 208A*/
-
 using namespace std;
+
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 208A
+   LINK : https://codeforces.com/problemset/problem/208/A
+   */
 
 int main()
 {
@@ -27,6 +32,3 @@ int main()
     cout << b;
     return 0;
 }
-
-
-
