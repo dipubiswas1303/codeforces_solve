@@ -3,6 +3,13 @@
 
 using namespace std;
 
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 69A
+   LINK : https://codeforces.com/problemset/problem/69/A
+   */
+
 int main()
 {
     int n, i, j, x = 0, y = 0, z = 0;
