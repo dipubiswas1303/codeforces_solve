@@ -1,9 +1,14 @@
 #include <iostream>
 #include <string.h>
 
-/*DIPU BISWAS 61A*/
-
 using namespace std;
+
+   /*
+   NAME : DIPU BISWAS
+   JUST CSE 2019 - 2020
+   PROBLEM CODE : 61A
+   LINK : https://codeforces.com/problemset/problem/61/A
+   */
 
 int main()
 {
