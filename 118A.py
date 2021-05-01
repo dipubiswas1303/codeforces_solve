@@ -5,3 +5,8 @@ for ch in a:
         pass
     else:
         print("." + ch, end="")
+
+ #  NAME : DIPU BISWAS
+ #  JUST CSE 2019 - 2020
+ #  PROBLEM CODE : 118A
+ #  LINK : https://codeforces.com/problemset/problem/118/A
